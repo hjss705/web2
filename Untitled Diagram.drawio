@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T07:10:09.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vVc7yi8gHQN90R7g5zju" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T08:13:07.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cRErMPINwbluqbj_Eqb4" version="14.7.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="ABvnFnV99FdlZ4MogWja-123" value="&lt;b style=&quot;font-size: 17px&quot;&gt;이벤트 &lt;br&gt;목록작성&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="340" y="240" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dZ_HjLs5xdtZezwTKZ4T-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;업로드&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dZ_HjLs5xdtZezwTKZ4T-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;업로드&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="455" y="350" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
